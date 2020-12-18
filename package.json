@@ -1,0 +1,22 @@
+{
+  "name": "second-graphics-app",
+  "version": "1.0.0",
+  "description": "Building off code from https://www.firstgraphics.app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackjlee/second-graphics-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackjlee/second-graphics-app/issues"
+  },
+  "homepage": "https://github.com/jackjlee/second-graphics-app#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
